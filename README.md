@@ -1,3 +1,3 @@
-# dakrnes38
+# darknes38
 Jalankan
 python run.py
