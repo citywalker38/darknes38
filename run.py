@@ -7,6 +7,7 @@ import time
 import os
 import sys
 os.system("title WARP-PLUS-CLOUDFLARE By NoName")
+os.system('cls' if os.name == 'nt' else 'clear')
 print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+.")
 print ("[-] Version: 4.0.0")
